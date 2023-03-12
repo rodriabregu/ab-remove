@@ -1,8 +1,8 @@
 <script lang="ts">
-  import { ImageStatus } from '../types.d';
   import Edit from './components/Edit.svelte';
   import Upload from './components/Upload.svelte';
   import { imageStatus } from './store';
+  import { ImageStatus } from '../types.d';
 </script>
 
 
